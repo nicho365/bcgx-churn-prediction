@@ -24,7 +24,8 @@ bcg-x-churn-prediction/
 │
 ├── data/
 │   ├── clean_data_after_eda.csv
-│   ├── feature_engineered_data.csv
+│   ├── price_data (1).csv
+|   ├── client_data (1).csv
 │   └── data_for_predictions.csv
 │
 └── README.md
